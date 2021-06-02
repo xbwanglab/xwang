@@ -3,7 +3,7 @@ title: Xubo Wang
 
 ---
 
-{% include figure.html width=300 image="/uploads/tasmania.JPG" position="left" %}
+{% include figure.html width=300 image="/xwang/uploads/tasmania.JPG" position="left" %}
 
 Postdoctoral Researcher @   
 [Zhejiang Lab](https://www.zhejianglab.com/)
