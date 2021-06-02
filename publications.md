@@ -5,12 +5,12 @@ title: Publications
 
 
 
-* Xubo Wang, Lu Qin, Xuemin Lin, Ying Zhang and Lijun Chang 
+- **Leveraging set relations in exact and dynamic set similarity join"". (VLDB Journal 2019) [Link](https://link.springer.com/article/10.1007/s00778-018-0529-2)
+<small> **Xubo Wang**, Lu Qin, Xuemin Lin, Ying Zhang and Lijun Chang </small>
 
-Leveraging set relations in exact and dynamic set similarity join. (VLDB Journal, 2019) [Link](https://link.springer.com/article/10.1007/s00778-018-0529-2)
+- Bohua Yang, Dong Wen, Lu Qin, Ying Zhang, **Xubo Wang** and Xuemin Lin
+**Fully Dynamic Depth-First Search in Directed Graphs. (PVLDB 2019)** [Link](http://www.vldb.org/pvldb/vol13/p142-yang.pdf)
 
-* Fully Dynamic Depth-First Search in Directed Graphs. (VLDB, 2019) [Link](http://www.vldb.org/pvldb/vol13/p142-yang.pdf)
-Bohua Yang, Dong Wen, Lu Qin, Ying Zhang, Xubo Wang and Xuemin Lin
 * Skyline Nearest Neighbor Search on Multi-layer Graphs. (ICDEW, 2019) [Link](https://ieeexplore.ieee.org/document/8750910)
 Wanqi Liu, Dong Wen, Hanchen Wang, Fan Zhang and Xubo Wang
 * Leveraging Set Relations in Exact Set Similarity Join. (VLDB, 2017) [Link](http://www.vldb.org/pvldb/vol10/p925-wang.pdf)
