@@ -126,13 +126,13 @@ navigation_header:
 #- title: Projects
 #  url: /projects/
 - title: Teaching
-  url: /teaching/
+  url: /xwang/teaching/
 - title: Services
-  url: /services/
+  url: /xwang/services/
 - title: Other
-  url: /other/
+  url: /xwang/other/
 - title: Search
-  url: /search/
+  url: /xwang/search/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
