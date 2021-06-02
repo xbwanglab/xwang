@@ -4,7 +4,7 @@ title: Publications
 ---
 
 
- Leveraging set relations in exact and dynamic set similarity join.  [Link](https://link.springer.com/article/10.1007/s00778-018-0529-2)
+* Leveraging set relations in exact and dynamic set similarity join.  [Link](https://link.springer.com/article/10.1007/s00778-018-0529-2)
 <p> <small> Xubo Wang, Lu Qin, Xuemin Lin, Ying Zhang and Lijun Chang </small> </p>
 The VLDB Journal 2019
 
