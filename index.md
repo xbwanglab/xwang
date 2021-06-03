@@ -15,13 +15,13 @@ My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwM
 
 <table style="width:100%">
   <tr>
-    <th style="text-align:left">
+    <th> {% include figure.html width=350 image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
+    <th style="vertical-align:top;text-align:left">
       Postdoctoral Researcher <br />
       <a href="https://www.zhejianglab.com/"> Zhejiang Lab </a>  <br />
       My <a href="https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en"> Google Scholar Profile </a>  <br />
       📧: wangxb@zhejianglab.com
     </th> 
-    <th> {% include figure.html width=80% image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
   </tr>
 </table>
 
