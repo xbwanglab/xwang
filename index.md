@@ -17,11 +17,11 @@ My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwM
   <tr>
     <th style="text-align:left">
       Postdoctoral Researcher <br />
-      [Zhejiang Lab](https://www.zhejianglab.com/)   <br />
-      My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en)  <br />
+      <a href="https://www.zhejianglab.com/"> Zhejiang Lab </a>  <br />
+      My <a href="https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en"> Google Scholar Profile </a>  <br />
       📧: wangxb@zhejianglab.com
     </th> 
-    <th> {% include figure.html width=300 image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
+    <th> {% include figure.html image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
   </tr>
 </table>
 
