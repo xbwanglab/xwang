@@ -13,7 +13,17 @@ My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwM
 📧: wangxb@zhejianglab.com
 
 
-
+<table style="width:100%">
+  <tr>
+    <th>
+      Postdoctoral Researcher <br />
+      [Zhejiang Lab](https://www.zhejianglab.com/)   <br />
+      My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en)  <br />
+      📧: wangxb@zhejianglab.com
+    </th> 
+    <th> {% include figure.html width=300 image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
+  </tr>
+</table>
 
 
 ### Biography
