@@ -15,7 +15,7 @@ My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwM
 
 <table style="width:100%">
   <tr>
-    <th>
+    <th style="text-align:left">
       Postdoctoral Researcher <br />
       [Zhejiang Lab](https://www.zhejianglab.com/)   <br />
       My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en)  <br />
