@@ -6,12 +6,14 @@ title: Teaching
 
 ###### UNSW Sydney	
 
-- COMP9311 Database Systems		<br />
-  Course Admin: 2016s1, 2017s1  <br />
-  Teaching Assistant: 2015s1
+- Course Admin		<br />
+  COMP9311 Database Systems: 2016s1, 2017s1
+
+- Teaching Assistant	<br />
+  COMP9311 Database Systems: 2015s1
 
 
 ###### Xiamen University	
 
-- Compile Principle 	<br />
-  Teaching Assistant: Fall 2012
+- Teaching Assistant	<br />
+  Compile Principle: Fall 2012
