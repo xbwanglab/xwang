@@ -21,7 +21,7 @@ My [Google Scholar Profile](https://scholar.google.com.au/citations?user=lTWkuwM
       My <a href="https://scholar.google.com.au/citations?user=lTWkuwMAAAAJ&hl=en"> Google Scholar Profile </a>  <br />
       📧: wangxb@zhejianglab.com
     </th> 
-    <th> {% include figure.html image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
+    <th> {% include figure.html width=240 image="/xwang/uploads/tasmania.JPG" position="right" %} </th>
   </tr>
 </table>
 
