@@ -3,6 +3,9 @@ title: Publications
 
 ---
 
+* ScaleG: A Distributed Disk-based System for Vertex-centric Graph Processing   <br />
+ <small> Xubo Wang, Dong Wen, Lu Qin, Lijun Chang, Ying Zhang, Wenjie Zhang </small>  <br />
+<small> Transactions on Knowledge and Data Engineering 2021  [Link](https://ieeexplore.ieee.org/document/9502565) </small>
 
 * Leveraging set relations in exact and dynamic set similarity join   <br />
  <small> Xubo Wang, Lu Qin, Xuemin Lin, Ying Zhang and Lijun Chang </small>  <br />
