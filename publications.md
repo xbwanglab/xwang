@@ -3,7 +3,7 @@ title: Publications
 
 ---
 
-* ScaleG: A Distributed Disk-based System for Vertex-centric Graph Processing   <br />
+* ScaleG: a distributed disk-based system for vertex-centric graph processing   <br />
  <small> Xubo Wang, Dong Wen, Lu Qin, Lijun Chang, Ying Zhang, Wenjie Zhang </small>  <br />
 <small> Transactions on Knowledge and Data Engineering 2021  [Link](https://ieeexplore.ieee.org/document/9502565) </small>
 
